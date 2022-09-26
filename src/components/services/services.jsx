@@ -11,92 +11,128 @@ const services = () => {
       <div className="container services_container">
         <article className="service">
           <div className="service_head">
-            <h3>UI/UX</h3>
+            <h3>Front-End</h3>
           </div>
 
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                HTML
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                CSS
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                JavaScript
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                React
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Angular
+              </p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>
+                TailWindCSS
+              </p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>
+                WordPress
+              </p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>
+                TypeScript
+              </p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>
+                Software Design
+              </p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>
+                UI/UX
               </p>
             </li>
           </ul>
         </article>
-        {/* End of Ui/UX */}
+        {/* End of FrontEnd */}
 
         <article className="service">
           <div className="service_head">
-            <h3>Web Development</h3>
+            <h3>Back-End</h3>
           </div>
 
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                MySQL
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                NodeJS
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+               Python
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Java
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
-            </li>
-
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                C/C++
               </p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                API
+              </p>
+            </li>
+
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>
+                MongoDB
+              </p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>
+                PHP
               </p>
             </li>
           </ul>
@@ -105,49 +141,49 @@ const services = () => {
 
         <article className="service">
           <div className="service_head">
-            <h3>Content Creation</h3>
+            <h3>Others Skills</h3>
           </div>
 
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Photoshop.
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Illustrator
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                After Effects
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Premiere Pro
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Corel Draw
               </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+               Office
               </p>
             </li>
           </ul>
         </article>
-        {/* End of Content Creation */}
+        {/* End of Others Skills */}
       </div>
     </section>
   )

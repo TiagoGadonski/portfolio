@@ -23,24 +23,26 @@ export const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
 
             <article className='about_card'>
               <FiUsers className='about_icon'/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>20+ Worldwide</small>
             </article>
 
             <article className='about_card'>
               <VscFolderLibrary className='about_icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>15+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corporis rerum culpa, ratione ullam maiores? Nesciunt explicabo nobis consequuntur repellendus, tempore maxime aperiam quasi, vero minus corporis dolorum. Error, sunt.
+          I study Software Engineering at Positivo and I work as a Full Stack Developer, with experience and qualifications to work with Javascript, HTML, CSS, React, Typescript, Java, Angular (programming languages) and Wordpress (development). In addition, I'm a WebDesign technician and I've worked with Marketing, after studying Advertising. If you are interested, you can check my portfolio on Github: https://github.com/TiagoGadonski
+
+I'm creative, proactive and I always try to stay on top of the news in my current area of ​​expertise, because I know that innovation moves this sector.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

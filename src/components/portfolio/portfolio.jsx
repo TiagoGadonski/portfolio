@@ -11,49 +11,49 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Cryptp-currency-dashboards-and-financial-data-visualization'
+    title: 'Music Player build with React and TailwindCSS',
+    github: 'https://github.com/TiagoGadonski/MusicPlayer',
+    demo: 'https://playermusic-tiago.netlify.app'
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Video Player with YouTube API',
+    github: 'https://github.com/TiagoGadonski/Youtube-Clone',
+    demo: 'https://ytclonetiago.netlify.app'
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    title: 'A banking website',
+    github: 'https://github.com/TiagoGadonski/bank-site',
+    demo: 'https://bank-site-tiago.netlify.app'
   },
 
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+    title: 'Website for dentists',
+    github: 'https://github.com/TiagoGadonski/doctorcare',
+    demo: 'https://tiagogadonski.github.io/doctorcare/'
   },
 
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Text Animation with only CSS',
+    github: 'https://github.com/TiagoGadonski/text-animation',
+    demo: 'https://text-animation-with-css.netlify.app'
   },
 
   {
     id: 6,
     image: IMG6,
     title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    github: 'https://github.com/TiagoGadonski/moving-taxi',
+    demo: 'https://moving-taxi.netlify.app'
   },
 ]
 
